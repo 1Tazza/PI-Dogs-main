@@ -1,0 +1,12 @@
+.img {width: 15vw; height: 10vw; border-radius: 12px; border: solid rgb(255, 255, 255) 2px;}
+
+.card {border: 2px solid black; width: 25%; border-radius: 20px;background-color: rgba(0, 0, 0, 0.519); color: antiquewhite; text-align: center; margin: 2% 1.2%}
+
+.link {
+    text-decoration: none; /* quita el subrayado */
+    color: white; /* establece el color predeterminado */
+  }
+
+.padding{padding: 4%;}
+
+.margin{margin-left: 5%; margin-right: 5%;}

@@ -1,0 +1,16 @@
+
+.row {display: flex; flex-direction: row; flex-wrap: wrap;}
+
+.justcenter{display: flex; align-items: center;}
+.column {display: flex; flex-direction: column;}
+
+.container{display: flex;justify-content: center;}
+
+.nav{display: flex;flex-direction: column; width: 100%; align-items: center;}
+
+.margin{margin-right: 1vw;}
+
+.select{border: solid;border-width: 2px;border-color:pink ;
+    color: rgb(255, 230, 105);background-color: rgba(0, 0, 0, 0.608); border-radius: 7px;
+padding: 10px 7px; cursor: pointer}
+
